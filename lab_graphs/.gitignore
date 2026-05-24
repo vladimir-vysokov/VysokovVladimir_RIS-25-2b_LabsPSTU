@@ -1,0 +1,14 @@
+.qtcreator/*.user
+*.user
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+.DS_Store
+*.app
+*.exe
+*.o
+*.obj
+*.moc
