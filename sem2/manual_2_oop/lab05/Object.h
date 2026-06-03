@@ -1,0 +1,11 @@
+#ifndef VYSOKOV_VLADIMIR_RIS_25_2B_LABS_PSTU_CS_OBJECT_H
+#define VYSOKOV_VLADIMIR_RIS_25_2B_LABS_PSTU_CS_OBJECT_H
+
+
+class Object {
+public:
+    virtual void show() = 0;
+};
+
+
+#endif //VYSOKOV_VLADIMIR_RIS_25_2B_LABS_PSTU_CS_OBJECT_Hz
